@@ -1,6 +1,6 @@
-<div align="center">#To Do List<div>
+<div align="center">#To Do List</div>
 
-<div align="end">### 박원우<div>
+<div align="end">### 박원우</div>
 ---
 
 
