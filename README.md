@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-- [click to site!!!](https://pwwtodoapp.netlify.app)
+- Demo : https://pwwtodoapp.netlify.app
 
 <div align="center"><img src="https://github.com/user-attachments/assets/3be4e8e7-eead-4911-978d-2df8210887fb" height="350"></div>
